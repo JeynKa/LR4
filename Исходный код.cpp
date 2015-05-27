@@ -37,6 +37,5 @@ int main(void)
 	}
 	cout<<"\n прямой обход \n";
 	obh(0,n,a);
-	return 0;
 	system("pause");
 }
